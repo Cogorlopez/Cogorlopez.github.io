@@ -1,0 +1,16 @@
+body {
+  padding-top: 50px;
+  padding-bottom: 0px
+  
+}
+
+
+footer{
+ background-color: #f74c3c;
+ padding-top: 100px;
+ padding-bottom: 0px;
+}
+
+footer p {
+	margin-bottom: 0px;
+}
