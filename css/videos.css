@@ -16,3 +16,7 @@
 {
 	margin-top: 20px;
 }
+
+iframe, object, embed {
+    max-width: 100%;
+}

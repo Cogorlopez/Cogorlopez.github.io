@@ -17,6 +17,15 @@ ul.nav {
 	background-color: #f5f5f5
 }
 
+#mgmt-section {
+	margin-bottom: 15px;
+}
+
+#endorsements-title
+{
+    margin-bottom: 25px;
+}
+
 .jumbotron {
 	text-align: center;
 	/*background-image: url('../images/adam.jpg');
