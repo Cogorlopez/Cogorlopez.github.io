@@ -47,6 +47,16 @@
 		font-weight: 100;
 		line-height: 1;
 	}
+
+		.event-list > li > time > .days {
+		display: block;
+		font-size: 33pt;
+		font-weight: 100;
+		line-height: 1;
+	    margin-top: 13px;
+   		margin-bottom: 15px;
+	}
+
 	.event-list > li time > .month {
 		display: block;
 		font-size: 24pt;
@@ -61,12 +71,19 @@
 		text-align: center;
 	}
 	.event-list > li > .info > .title {
-		font-size: 17pt;
+		font-size: 20pt;
 		font-weight: 700;
 		margin: 0px;
 	}
+
+	.event-list > li > .info > .sub-title {
+		font-size: 10pt;
+		font-weight: 300;
+		margin: 0px;
+	}	
+
 	.event-list > li > .info > .desc {
-		font-size: 13pt;
+		font-size: 15pt;
 		font-weight: 300;
 		margin: 0px;
 	}
@@ -172,6 +189,11 @@
 		.event-list > li > .info > .desc {
 			padding: 0px 10px;
 		}
+		.event-list > li > .info > .sub-title {
+			padding: 10px;
+			padding-top: 5px;
+		}
+
 		.event-list > li > .info > ul {
 			position: absolute;
 			left: 0px;
