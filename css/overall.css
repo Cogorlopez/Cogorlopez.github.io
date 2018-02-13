@@ -16,6 +16,16 @@ footer p {
 	text-align: center;
 }
 
+footer .container {
+
+	color: inherit; 
+	text-align: center;
+}
+
+footer .container a {
+	color: inherit;
+}
+
 
 hr {
 	width: 600px
