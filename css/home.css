@@ -27,6 +27,10 @@ ul.nav {
     font-size: 27px;
 }
 
+#news-item-botom {
+	    margin-top: 35px;
+}
+
 #upcoming-list {
 	margin-top: 0px
 }
