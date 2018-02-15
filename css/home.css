@@ -27,9 +27,6 @@ ul.nav {
     font-size: 27px;
 }
 
-#news-item-botom {
-	    margin-top: 35px;
-}
 
 #upcoming-list {
 	margin-top: 0px
@@ -97,5 +94,9 @@ ul.nav {
     padding-right: 30px;
 }
 
-
-
+/*Media Queries*/
+@media (max-width: 990px) {
+	#news-item-botom {
+		    margin-top: 35px;
+	}
+}
