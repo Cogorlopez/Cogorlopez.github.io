@@ -96,7 +96,7 @@ ul.nav {
 
 /*Media Queries*/
 @media (max-width: 990px) {
-	#news-item-botom {
+	#news-item-bottom, #news-item-top {
 		    margin-top: 35px;
 	}
 }
