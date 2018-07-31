@@ -16,3 +16,67 @@ footer{
   color: white;
   margin-left: 20px;
 }
+
+.logo {
+  /* position:absolute; */
+    /* top:0; */
+  max-width: 100%;
+  vertical-align: middle;
+  max-height: 360px;
+  display: block;
+}
+
+.container {
+  /* text-align: center;
+  vertical-align: middle; */
+  /* margin: 1em 0; */
+}
+
+.helper {
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+}
+
+.frame {
+    height: 320px;      /* equals max image height */
+    width: 100%;
+    margin: auto;
+    /* border: 1px solid red; */
+    /* white-space: nowrap; */
+
+    text-align: center;
+}
+
+@media only screen and (max-width: 1024px) {
+  .frame {
+      height: 125px;      /* equals max image height */
+      width: 100%;
+      margin: auto;
+      /* border: 1px solid red; */
+      /* white-space: nowrap; */
+      text-align: center;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .frame {
+      height: 260px;      /* equals max image height */
+      width: 100%;
+      margin: auto;
+      /* border: 1px solid red; */
+      /* white-space: nowrap; */
+      text-align: center;
+  }
+}
+
+@media only screen and (max-width: 414px) {
+  .frame {
+      height: 205px;      /* equals max image height */
+      width: 100%;
+      margin: auto;
+      /* border: 1px solid red; */
+      /* white-space: nowrap; */
+      text-align: center;
+  }
+}

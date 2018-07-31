@@ -53,13 +53,14 @@
 }
 
 /* Bottom left text */
-.bottom-left {
+.band-name{
     position: absolute;
     bottom: 8px;
     left: 16px;
     font-size: 40pt;
     color: white;
     margin-left: 20px;
+    font-family: 'Play', sans-serif;
 }
 
 
