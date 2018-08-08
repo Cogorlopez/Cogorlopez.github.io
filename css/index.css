@@ -74,7 +74,7 @@ footer{
 
 @media only screen and (max-width: 414px) {
   body {
-    background-image: url("../images/cover1.jpg");
+    background-image: url("../images/mike.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
