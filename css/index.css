@@ -1,8 +1,8 @@
 body {
-  background-image: url("../images/cover1.jpg");
+  background-image: url("../images/mike.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  /* background-position: center; */
+  background-position: center;
 }
 
 footer{
