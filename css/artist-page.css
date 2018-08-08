@@ -4,6 +4,10 @@ main img {
   max-width: 100%;
 }
 
+.logo img {
+  margin-bottom: 0px;
+}
+
 .row .container a {
     color: white;
 }

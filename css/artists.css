@@ -33,9 +33,14 @@
   padding: 0px;
 }
 
+.col-md-5 {
+  padding: 0px;
+}
+
 .col-md-4 {
   padding: 0px;
 }
+
 
 .pressImg {
   height: 100%;

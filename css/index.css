@@ -1,8 +1,8 @@
-main {
-  background-image: url("../images/alt-cov.jpg");
+/* main {
+  background-image: url("../images/cover3.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-}
+} */
 
 footer{
   background-color: transparent;
@@ -24,6 +24,7 @@ footer{
   vertical-align: middle;
   max-height: 360px;
   display: block;
+  margin: auto;
 }
 
 .container {
