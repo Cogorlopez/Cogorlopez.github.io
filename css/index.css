@@ -1,7 +1,8 @@
-main {
+body {
   background-image: url("../images/cover1.jpg");
   background-repeat: no-repeat;
   background-size: cover;
+  /* background-position: center; */
 }
 
 footer{
@@ -72,6 +73,13 @@ footer{
 }
 
 @media only screen and (max-width: 414px) {
+  body {
+    background-image: url("../images/cover1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+
   .frame {
       height: 185px;      /* equals max image height */
       width: 100%;
