@@ -1,8 +1,8 @@
-/* main {
-  background-image: url("../images/cover3.jpg");
+main {
+  background-image: url("../images/cover1.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-} */
+}
 
 footer{
   background-color: transparent;
@@ -73,7 +73,7 @@ footer{
 
 @media only screen and (max-width: 414px) {
   .frame {
-      height: 205px;      /* equals max image height */
+      height: 185px;      /* equals max image height */
       width: 100%;
       margin: auto;
       /* border: 1px solid red; */
