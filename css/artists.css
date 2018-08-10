@@ -68,6 +68,10 @@
     font-family: 'Play', sans-serif;
 }
 
+.artistsbody {
+  max-width: 75%
+}
+
 
 
 
@@ -143,11 +147,37 @@
   /* height: auto; */
 }
 
+#ofname {
 
-@media (min-width: 768px) {
+}
+
+
+@media (max-width: 768px) {
   .flex-md-equal > * {
     -ms-flex: 1;
     flex: 1;
+  }
+
+  .artistsbody {
+    max-width: 100%
+  }
+
+  #gnname {
+    font-size: 36pt;
+  }
+
+  #ofname {
+    font-size: 33pt;
+  }
+}
+
+@media (max-width: 414px) {
+  #gnname {
+    font-size: 36pt;
+  }
+
+  #ofname {
+    font-size: 28pt;
   }
 }
 

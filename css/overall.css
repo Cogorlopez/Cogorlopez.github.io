@@ -4,6 +4,10 @@ html, body {
     background-color: #353535;
 }
 
+header {
+  margin-bottom: 80px;
+}
+
 article {
     min-height: 100%;
     display: grid;
