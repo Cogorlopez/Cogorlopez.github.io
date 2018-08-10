@@ -13,14 +13,11 @@ footer{
   position: absolute;
   bottom: 8px;
   left: 16px;
-  /* font-size: 40pt; */
   color: white;
   margin-left: 20px;
 }
 
 .logo {
-  /* position:absolute; */
-    /* top:0; */
   max-width: 100%;
   vertical-align: middle;
   max-height: 360px;
@@ -28,11 +25,6 @@ footer{
   margin: auto;
 }
 
-.container {
-  /* text-align: center;
-  vertical-align: middle; */
-  /* margin: 1em 0; */
-}
 
 .helper {
     display: inline-block;
@@ -44,8 +36,6 @@ footer{
     height: 320px;      /* equals max image height */
     width: 100%;
     margin: auto;
-    /* border: 1px solid red; */
-    /* white-space: nowrap; */
 
     text-align: center;
 }
@@ -55,8 +45,6 @@ footer{
       height: 125px;      /* equals max image height */
       width: 100%;
       margin: auto;
-      /* border: 1px solid red; */
-      /* white-space: nowrap; */
       text-align: center;
   }
 }
@@ -66,8 +54,6 @@ footer{
       height: 260px;      /* equals max image height */
       width: 100%;
       margin: auto;
-      /* border: 1px solid red; */
-      /* white-space: nowrap; */
       text-align: center;
   }
 }
@@ -84,8 +70,6 @@ footer{
       height: 185px;      /* equals max image height */
       width: 100%;
       margin: auto;
-      /* border: 1px solid red; */
-      /* white-space: nowrap; */
       text-align: center;
   }
 }
